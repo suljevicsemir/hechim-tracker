@@ -27,6 +27,3 @@ Short run:
 <img src="https://github.com/user-attachments/assets/8fbba96e-ec56-44e3-bd33-e40503baa13f" width="200">
 
 Identical distance recorded in the shorter run. 
-
-
-Definitely a fun exercise and something I should work on a lot more in the future, as this can be an excellent project to showcase to potential clients.
